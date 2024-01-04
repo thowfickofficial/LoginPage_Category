@@ -1,5 +1,5 @@
 Ghost Login Theme
-![ghostLoginTem](./ghostlogin/ghostLoginTem.png)
+![ghostLoginTem](./ghostlogin/ghostLoginTem.jpg)
 
 MultiColorBG Login Theme
-![multiColorBGloginTem](./multiColorBGlogin/multiColorBGloginTem.png)
+![multiColorBGloginTem](./multiColorBGlogin/multiColorBGloginTem.jpg)
